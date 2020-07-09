@@ -1,6 +1,6 @@
 ### Hello, I'm Shawn Pence
 
-I am a software developer experienced in C# and SQL, Microsoft SQL Server Reporting Services (SSRS), VB.NET and
+I am a software developer experienced in C#, SQL, Microsoft SQL Server Reporting Services (SSRS), VB.NET and
  various other programming languages. I love to teach and learn from others and prefer to build my career by
  building stronger teams. I have also worked as a systems administrator maintaining AD, Exchange, Hyper-V cluster
  servers, SAN, and various network equipment, and have worked with PowerShell and VBScript to automate my
