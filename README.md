@@ -1,4 +1,4 @@
-### 😀 Hello, I'm Shawn Pence
+### 👨‍💻 Hello, I'm Shawn Pence
 
 I am a software developer experienced in C#, SQL, Microsoft SQL Server Reporting Services (SSRS), VB.NET and
  various other programming languages. I love to teach and learn from others and prefer to build my career by
