@@ -14,7 +14,9 @@ You can find out more about me at my personal website [https://shawnpence.com/ab
 ### Experience
 
 The majority of my programming experience has been with C#, SQL, and VB.NET, but I’ve also developed
- smaller programs/scripts in Python, VB6, VBScript, C++, JavaScript, PowerShell, and other languages.
+ smaller programs/scripts in Python, VB6, VBScript, C++, JavaScript, PowerShell, and other languages. I've developed
+ software in environments ranging from large enterprises to small businesses, but my employers have all been closed-source,
+ so you won't see my professional experience reflected in my GitHub contributions chart.
 
 Most recently, I have been a C# / T-SQL developer creating and supporting WinForms and ASP.NET applications
  and the SQL databases used by those applications, automating business processes, creating and maintaining SQL
