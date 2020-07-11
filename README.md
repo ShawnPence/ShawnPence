@@ -26,8 +26,9 @@ Most recently, I have been a C# / T-SQL developer creating and supporting WinFor
 
 These are a few of the areas I'm currently studying and working to improve my knowledge.  I believe in lifelong
  learning, so some of these are areas of strength that I want to make even stronger, others are areas of relative
- weakness where I want to improve
+ weakness where I want to improve.
  
 * Multithreading and concurrent programming in C#
+* Entity Framework
 * Machine Learning
 * Python
