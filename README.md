@@ -2,9 +2,11 @@
 
 I am a software developer experienced in C#, SQL, Microsoft SQL Server Reporting Services (SSRS), VB.NET and
  various other programming languages. I love to teach and learn from others and prefer to build my career by
- building stronger teams. I have also worked as a systems administrator maintaining AD, Exchange, Hyper-V cluster
- servers, SAN, and various network equipment, and have worked with PowerShell and VBScript to automate my
- sysadmin responsibilities.
+ building stronger teams. 
+
+I have previously worked as a systems administrator maintaining AD, Exchange, Hyper-V cluster
+ servers, SAN, and various network equipment (routers, switches, ASA, WLC), and have worked with PowerShell and VBScript to automate my former
+ sysadmin responsibilities. My love of automating away my routine tasks lead me away from systems administration to full-time developer roles.
  
 I'm a bookworm with a passion for lifelong learning. Check my status on GitHub to see what I'm currently
  reading. You can also find a list of recommended books and other learning resources on my personal website.
