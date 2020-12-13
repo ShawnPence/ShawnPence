@@ -9,9 +9,9 @@ I have previously worked as a systems administrator maintaining AD, Exchange, Hy
  sysadmin responsibilities. My love of automating away my routine tasks lead me away from systems administration to full-time developer roles.
  
 I'm a bookworm with a passion for lifelong learning. Check my status on GitHub to see what I'm currently
- reading. You can also find a list of recommended books and other learning resources on my personal website.
+ reading. There is also a list of recommended books and other learning resources on my personal website.
 
-You can find out more about me at my personal website [https://shawnpence.com/about](https://shawnpence.com/about).
+To learn more about me, see my personal website [https://shawnpence.com/about](https://shawnpence.com/about).
 
 ### 💻 Experience
 
