@@ -1,11 +1,11 @@
 ### 👨‍💻 Hello, I'm Shawn Pence
 
-I am a software developer experienced in C#, SQL, Microsoft SQL Server Reporting Services (SSRS), VB.NET and
- other programming languages. I love to teach and learn from others and I prefer to build my career by
- building stronger teams. 
+I am an experienced C# and SQL developer. Always looking for ways to contribute to team success
+ and improve processes, I've advanced my career by helping my teammates succeed and learn.
+ I'm a life-long learner with a love of books and enjoy sharing what I've learned and teaching others.
 
-I'm a bookworm with a passion for lifelong learning. Check my status on GitHub to see what I'm currently
- reading. There is also a list of recommended books and other learning resources on my personal website.
+Check my status on GitHub to see what I'm currently reading. There is also a list of recommended books
+ and other learning resources on my personal website.
 
 To learn more about me, see my personal website [https://shawnpence.com/about](https://shawnpence.com/about).
 
