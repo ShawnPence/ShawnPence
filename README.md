@@ -33,4 +33,4 @@ These are a few of the areas I'm currently studying to improve my knowledge.  I 
 * Entity Framework
 * Machine Learning
 * Python
-* *for fun:* Audio programming *(I would love to learn how to create a software synthesizer - looking for good resources if anyone has recommendations)*
+* *for fun:* Audio programming
